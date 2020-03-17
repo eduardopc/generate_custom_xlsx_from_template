@@ -1,0 +1,22 @@
+{
+  "name": "create-xlsx-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -r esm --inspect-brk --inspect=0.0.0.0:9229 index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "excel4node": "^1.7.2",
+    "express": "^4.17.1",
+    "xlsx-template": "^0.5.0"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "nodemon": "^2.0.2",
+    "sucrase": "^3.12.1"
+  }
+}

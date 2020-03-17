@@ -1,0 +1,1 @@
+Com base em parâmetros configurados no próprio XLSX substitui os valores e gera um outro arquivo em memória.
